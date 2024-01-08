@@ -22,10 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nilavarasu2608&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nilavarasu2608&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/knlsu444@gmail.com) 
+
 
 
 
