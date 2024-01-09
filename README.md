@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Nilavarasu
-- 👀 I'm a Mobile developer and an UI/UX designer!
-- 🌱 I’m currently learning NodeJS and mongoDB.
+- 👀 I'm a passionate Flutter developer and an UI/UX designer!
 - 💞️ I love to design,bulit and manage Mobile apps.
 - 🎓 Bachelors degree in Information Technology. 
 - you can reach me through
