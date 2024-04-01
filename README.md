@@ -15,7 +15,10 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="50" height="50" alt="Flutter" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" width="50" height="50" alt="Dart" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" width="50" height="50" alt="Dart" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" width="50" height="50" alt="Firebase" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="44" height="44" alt="Kotlin" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="50" height="50" alt="Android" /> 
 </p>
 
 # 📊 GitHub Stats:
