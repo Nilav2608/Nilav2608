@@ -18,7 +18,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" width="50" height="50" alt="Dart" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" width="50" height="50" alt="Firebase" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="44" height="44" alt="Kotlin" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="50" height="50" alt="Android" /> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="50" height="50" alt="Android" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50" height="50" alt="Js" /> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="50" height="50" alt="NodeJS" /> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50" height="50" alt="MongoDB" />  
 </p>
 
 # 📊 GitHub Stats:
