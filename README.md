@@ -21,7 +21,9 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="50" height="50" alt="Android" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50" height="50" alt="Js" /> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="50" height="50" alt="NodeJS" /> 
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50" height="50" alt="MongoDB" />  
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50" height="50" alt="MongoDB" />
+  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="46" height="50" alt="C#" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" width="50" height="50" alt=".NET" />  
 </p>
 
 # 📊 GitHub Stats:
