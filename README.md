@@ -25,7 +25,8 @@
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="46" height="50" alt="C#" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" width="50" height="50" alt=".NET" /> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-docker-3050921-2538289.png?f=webp" width="60" height="60" alt="Docker" > 
-  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="70" height="60" alt="AWS">  
+  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="70" height="60" alt="AWS">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="50" height="50" alt="Figma" />  
 </p>
 
 # 📊 GitHub Stats:
