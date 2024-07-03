@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Nilavarasu
 - 👀 I'm a passionate Flutter developer and an UI/UX designer!
-- 💞️ I love to design,bulit and manage Mobile apps.
+- 💞️ I love to design,build and manage Mobile apps.
 - 🎓 Bachelors degree in Information Technology. 
 - you can reach me through
   
