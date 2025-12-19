@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Nilavarasu
-- 👀 I'm a passionate Flutter developer and an UI/UX designer!
+- 👋 Hi, I’m Nilavarasu Simply (Nilav or Nila)
+- 👀 I'm a passionate Mobile Engineer and an UI/UX designer!
 - 💞️ I love to design,build and manage Mobile apps.
-- 🎓 Postgrad student in Mobile solutions Development. 
+- 🎓 Postgrad in Mobile solutions Development. 
 - you can reach me through
   
 
