@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Nilavarasu Simply (Nilav or Nila)
+- 👋 Hi, I’m Nilav
 - 👀 I'm a passionate Mobile Engineer and an UI/UX designer!
 - 💞️ I love to design,build and manage Mobile apps.
 - 🎓 Postgrad in Mobile solutions Development. 
@@ -8,8 +8,6 @@
   
 
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Nilavarasu2681) 
 
 # 💻 Tech Stack:
 
