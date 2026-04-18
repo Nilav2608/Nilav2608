@@ -11,9 +11,7 @@
 
 # 💻 Tech Stack:
 
-<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="50" height="50" alt="Flutter" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" width="50" height="50" alt="Dart" />
   <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="50" height="50" alt="Swift" />
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50" alt="SwiftUI" />
   
@@ -27,7 +25,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-docker-3050921-2538289.png?f=webp" width="60" height="60" alt="Docker" > 
   <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="70" height="60" alt="AWS">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="50" height="50" alt="Figma" />  
-</p>
 
 
 
