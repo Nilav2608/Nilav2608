@@ -1,7 +1,7 @@
 
 # Hi, I’m Nilav 👋
 
-I’m a mobile engineer focused on building polished, reliable iOS and cross-platform products. I enjoy taking ideas from early requirements to a production-ready app—shaping the architecture, collaborating across product and backend, and owning quality after release.
+I’m a mobile engineer and a builder. I enjoy taking ideas from early requirements to a production-ready app—shaping the architecture, collaborating across product and backend, and owning quality after release.
 
 - 📱 Building with **Swift, SwiftUI, UIKit, Flutter, and Kotlin**
 - 🚀 Experienced in shipping products end to end, from concept and design to release and production support
