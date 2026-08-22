@@ -1,18 +1,19 @@
 
 # Hi, I’m Nilav 👋
 
-I’m a mobile engineer and a builder. I enjoy taking ideas from early requirements to a production-ready app—shaping the architecture, collaborating across product and backend, and owning quality after release.
 
-- 📱 Building with **Swift, SwiftUI, UIKit, Flutter, and Kotlin**
-- 🚀 Experienced in shipping products end to end, from concept and design to release and production support
-- 🌱 Currently exploring AI Agent Workflows.
 
-## Connect with me
+ #### Founding Engineer At AccoladeHQ
+  - I operate with high agency, built 3 apps from 0 -> 1 and owned the orgs entire mobile stack end to end, architected offline sync engine with CDN support, integrated VoIP voice calling support with CallKit Apple Push Notification service and Firebase Messaging.
+  - I enjoy taking ideas from early requirements to a production-ready app—shaping the architecture, collaborating across product and backend, and owning quality after release.
 
-[![Email](https://img.shields.io/badge/Email-nilavarasuk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nilavarasuk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilavarasu%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilavarasu-kumar-22aa161a2/)
+  #### One the side,
+  I'm building Guidely - an AI personal trainer in Swift, SwiftUI, AVFoundation, TensorFlowLite, Metal and Apple Foundation Models.
 
-## 💻 Tech Stack
+  #### Currently obsessed with,
+  - Agents & Workflows, RAG, MCP, Model as Judge evals and On device AI
+
+## 💻 My Tech Stack so far
 
 <p align="center">
   <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="50" height="50" alt="Swift" />
@@ -31,6 +32,12 @@ I’m a mobile engineer and a builder. I enjoy taking ideas from early requireme
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="50" height="50" alt="Figma" />
 </p>
 
+## Connect with me
+
+[![X](https://img.shields.io/badge/X-nilavarasu2608-black
+)](https://x.com/Nilavarasu2681)</br>
+[![Email](https://img.shields.io/badge/Email-nilavarasuk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nilavarasuk@gmail.com) </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilavarasu%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilavarasu-kumar-22aa161a2/)
 
 
 
