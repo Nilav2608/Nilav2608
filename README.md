@@ -22,6 +22,7 @@ I’m a mobile engineer and a builder. I enjoy taking ideas from early requireme
   <img src="https://kotlinfoundation.org/static/kotlin-logo-e561bb24367c5fce5fcdaedb726b621b.png" width="50" height="50" alt="Kotlin" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="50" height="50" alt="Android Studio" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJiZlFwHkmOtwLwFSBvpMTZKDUGyVDzidEF9GkcrHhw&s=10" width="50" height="50" alt="JavaScript" />
+  <img src="https://grpc.io/img/logos/grpc-logo.png" height="50" alt="Buf" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="50" height="50" alt="Node.js" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50" height="50" alt="MongoDB" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/500px-Microsoft_.NET_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width= "50" height="50" alt=".NET" />
